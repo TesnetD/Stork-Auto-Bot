@@ -22,7 +22,7 @@ Automated validation bot for the Stork Oracle network. This bot helps you automa
 
 1. Clone the repository:
 ```
-git clone https://github.com/airdropinsiders/Stork-Auto-Bot.git
+git clone https://github.com/TesnetD/Stork-Auto-Bot.git
 ```
 
 2. Navigate to the project directory:
